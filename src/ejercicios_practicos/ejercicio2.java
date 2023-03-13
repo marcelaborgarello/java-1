@@ -3,7 +3,7 @@
 //el programa pondrá un mensaje de Correcto, 
 //sino mostrará un mensaje de Incorrecto. 
 //Nota: investigar la función equals() en Java.
-package guia3;
+package ejercicios_practicos;
 
 import java.util.Scanner;
 
