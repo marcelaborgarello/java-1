@@ -11,12 +11,20 @@ public class ejercicio4 {
 
         String frase = leer.nextLine();
 
-        if (frase.toLowerCase().substring(0, 1).equals("a")) {
+        System.out.println(frase.toLowerCase().endsWith("a"));        
+        System.out.println(frase.toUpperCase().startsWith("A"));
+        if (frase.toUpperCase().startsWith("A")) {
             System.out.println("CORRECTO");
         } else {
             System.out.println("INCORRECTO");
         }
 
+//        if (frase.toLowerCase().substring(0, 1).equals("a")) {
+//            System.out.println("CORRECTO");
+//        } else {
+//            System.out.println("INCORRECTO");
+//        }
+//aho
     }
 
 }
