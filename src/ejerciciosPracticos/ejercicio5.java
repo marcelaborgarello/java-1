@@ -1,7 +1,7 @@
 //Escriba un programa en el cual se ingrese un valor límite positivo, 
 //y a continuación solicite números al usuario 
 //hasta que la suma de los números introducidos supere el límite inicial.
-package ejercicios_practicos;
+package ejerciciosPracticos;
 
 import java.util.Scanner;
 
